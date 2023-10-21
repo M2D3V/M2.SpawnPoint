@@ -20,7 +20,7 @@ Config.Position = {
 }
 ```
 
-Credit : @m2dev
-Discord : [Link](https://discord.gg/pBsj94TaJT)
-Github : https://github.com/M2D3V/M2.SpawnPoint
-Download : https://github.com/M2D3V/M2.SpawnPoint/releases/tag/v1.0-beta
+Credit : @m2dev <br>
+Discord : [Link](https://discord.gg/pBsj94TaJT) <br>
+Github : [Link](https://github.com/M2D3V) <br>
+Download : [M2.SpawnPoint-v1.0-beta](https://github.com/M2D3V/M2.SpawnPoint/releases/tag/v1.0-beta) <br>
